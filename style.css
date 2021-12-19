@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(40, 230, 87);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.objects{
+    color: rgb(5, 114, 23);
+}
+
+#camera{
+    border: 3px solid rgb(5, 114, 23);
+    width: 450px;
+    height: 300px;
+}
+
+#result{
+    border: 3px solid rgb(5, 114, 23);
+    width: 365px;
+    height: 305px;
+}
